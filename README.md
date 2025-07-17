@@ -86,18 +86,6 @@ cd palliative-care-concerns-gpt
 pip install openai
 ```
 
-### 3. Set your OpenAI API key
-
-```bash
-export OPENAI_API_KEY=your-key-here
-```
-
-### 4. Run the extractor
-
-```bash
-python extract_palliative_concerns.py input_narrative.txt
-```
-
 ---
 
 ## 🧠 Concern Categories
