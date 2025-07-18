@@ -119,5 +119,26 @@ For questions, collaboration, or feedback, contact \[Dr. Daisy Monika Lal] at \[
 ## 📚 Citation
 
 ```bibtex
-    The 19th World Congress of the European Association for Palliative Care 29 – 31 May 2025 Helsinki, Finland. Palliative Medicine. 2025;39(2_suppl):1-490. doi:10.1177/02692163251335482
-  
+@article{doi:10.1177/02692163251335482,
+
+title ={The 19th World Congress of the European Association for Palliative Care 29 – 31 May 2025 Helsinki, Finland},
+
+journal = {Palliative Medicine},
+volume = {39},
+number = {2\_suppl},
+pages = {1-490},
+year = {2025},
+doi = {10.1177/02692163251335482},
+
+URL = { 
+    
+        https://doi.org/10.1177/02692163251335482
+    
+},
+eprint = { 
+    
+        https://doi.org/10.1177/02692163251335482
+
+}
+
+}  
